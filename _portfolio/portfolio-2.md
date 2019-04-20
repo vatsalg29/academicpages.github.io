@@ -18,3 +18,5 @@ We designed a cost effective system that costs around ₹5000 by detecting the p
 
 **Note -** We won the bronze medal at the annual *Inter-IIT Tech Meet, 2018* held at IIT Madras for this project representing
 IIT Guwahati and competing against 18 other IITs.
+
+[Github](https://github.com/vatsalg29/Safety-device-for-fishing-vessels)
