@@ -2,7 +2,7 @@
 title: "Safety Device for Fishing Vessels"
 excerpt: "Designed a cost-effective system to alert fishing trawlers and other miniature vessels about approaching ships so 
 that they can safely manoeuvre away from them.<br/> [Github](https://github.com/vatsalg29/Safety-device-for-fishing-vessels) <br/>
-<img src='/images/500x300.png'>"
+<img src='/images/interiitpic.jpg'>"
 collection: portfolio
 ---
 
