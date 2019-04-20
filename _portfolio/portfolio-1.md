@@ -1,6 +1,6 @@
 ---
 title: "Optical Character Recognition using Deep Learning"
-excerpt: "Designed a model for detecting text handwriting from images of texts. Worked in keras using Convolutional Neural Networks(CNN) and Long Short Term Memory(LSTM) cells. <br/> [Github](https://github.com/vatsalg29/Optical-Character-Recognition-using-Deep-Learning) <br/><img src='/images/ocrpicss.jpg' width="100" height="100" >
+excerpt: "Designed a model for detecting text handwriting from images of texts. Worked in keras using Convolutional Neural Networks(CNN) and Long Short Term Memory(LSTM) cells. <br/> [Github](https://github.com/vatsalg29/Optical-Character-Recognition-using-Deep-Learning) <br/><img src='/images/ocrpicss.jpg' width="100" height="100">"
 collection: portfolio
 ---
 
