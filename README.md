@@ -1,3 +1,3 @@
-# My Technical Portfolio. 
+# My Technical Portfolio
 
 Do check it out :smile:
