@@ -14,11 +14,11 @@ Education
 * B.Tech in Electronics and Electrical Engineering, IIT Guwahati, 2020 (expected)
 
 [//]: <> (Work experience)
-[//]: <> =====
-[//]: <> * Summer 2019: Research Internship
-[//]: <>   * Czech Technical University, Prague
-[//]: <>   * Duties included: Tagging issues
-[//]: <>   * Supervisor: Professor Jan Kybic
+[//]: <> (=====)
+[//]: <> (* Summer 2019: Research Internship)
+[//]: <>   (* Czech Technical University, Prague)
+[//]: <>   (* Duties included: Tagging issues)
+[//]: <>   (* Supervisor: Professor Jan Kybic)
   
 Skills
 ======
