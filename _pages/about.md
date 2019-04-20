@@ -5,7 +5,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# About me
+## About me
 
 I am a Pre-Final year undergraduate student at the Indian Institute of Technology, Guwahati in Electronics and Electrical Engineering with a minor in Computer Science.
     
