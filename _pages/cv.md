@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * B.Tech in Electronics and Electrical Engineering, IIT Guwahati, 2020 (expected)
+* B.Tech(Minor) in Computer Science and Engineering, IIT Guwahati, 2020 (expected)
 
 [//]: <> (Work experience)
 [//]: <> (=====)
@@ -22,14 +23,25 @@ Education
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Deep Learning
+* Machine Learning
+* Computer Vision
+* Programming
+  * Python
+  * Java
+  * C++
+* Libraries and Frameworks
+  * OpenCV
+  * Numpy
+  * Keras
 
   
-Service and leadership
+Positions of Responsibilities
 ======
-* Currently signed in to 43 different slack teams
+* Module Head, Industrial Conclave and Core Team Member, Techniche 2018 (The annual Techno-Management fest of IIT Guwahati)
+* Branch Representative, Electronics and Electrical Engineering (2018-present)
+
+Achievements
+=====
+* Won the bronze medal for the project "Safety Device for fishing vessels" in Inter IIT Tech Meet 2018 competing against 18 other IITs.
+* Secured All India Rank 1471 in JEE Advanced out of 1.1 million candidates.
