@@ -1,7 +1,12 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Optical Character Recognition using Deep Learning"
+excerpt: "Designed a model for detecting text handwriting from images of texts. Worked in keras using Convolutional Neural Networks(CNN) and Long Short Term Memory(LSTM) cells.[Github](https://github.com/vatsalg29/Optical-Character-Recognition-using-Deep-Learning)<br/><img src='/images/ocrpicss.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+I have created a character level and a word level neural network to recognize hand-written text. I used 2
+datasets for this purpose, EMNIST Dataset for character level recognition and IAM Handwriting
+Dataset for word level recognition. The character level model uses a CNN architecture and achieved
+an accuracy of 88% . The word level model uses a CNN architecture which feeds into a LSTM layer
+and this model achieved an accuracy of 79%.
+[Github](https://github.com/vatsalg29/Optical-Character-Recognition-using-Deep-Learning)
