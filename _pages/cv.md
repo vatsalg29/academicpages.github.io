@@ -47,4 +47,4 @@ Achievements
 * Secured All India Rank 1471 in JEE Advanced out of 1.1 million candidates.
 
 Download full CV here - 
-<button name="CV" onclick="{{ site.url }}/CV4.pdf">CV</button>
+<button name="CV" onclick="https://vatsalg29.github.io/CV4.pdf">CV</button>
