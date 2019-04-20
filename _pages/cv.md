@@ -46,5 +46,4 @@ Achievements
 * Won the bronze medal for the project "Safety Device for fishing vessels" in Inter IIT Tech Meet 2018 competing against 18 other IITs.
 * Secured All India Rank 1471 in JEE Advanced out of 1.1 million candidates.
 
-Download full CV here - 
-<button name="CV" href="https://google.com">CV</button>
+Download full CV [here](https://vatsalg29.github.io/CV4.pdf)
