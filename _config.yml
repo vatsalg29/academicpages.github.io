@@ -9,8 +9,8 @@
 locale                   : "en-IN"
 title                    : "Vatsal Goel"
 title_separator          : "-"
-name                     : &name "Vatsal Goel"
-description              : &description "Technical Portfolio"
+name                     : "Vatsal Goel"
+description              : "Technical Portfolio"
 url                      : https://vatsalg29.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "vatsalg29/vatsalg29.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Vatsal Goel"
-  avatar           : "DP.jpg"
+  avatar           : DP.jpg
   bio              : "Upcoming Researcher in Deep Learning and Computer Vision"
   location         : "IIT Guwahati"
   employer         :
