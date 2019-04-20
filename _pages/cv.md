@@ -47,4 +47,4 @@ Achievements
 * Secured All India Rank 1471 in JEE Advanced out of 1.1 million candidates.
 
 Download full CV here - 
-<button name="CV" onclick="https://google.com">CV</button>
+<button name="CV" href="https://google.com">CV</button>
