@@ -13,7 +13,7 @@ My research interests lie in the field of **Deep Learning and Computer Vision**,
     
 Apart from my course curriculum including courses on Linear Algebra, Probability and Random Processes, I have completed online courses such as the Machine Learning course and the Deep Learning Specialization (DL.ai) by Andrew Ng, Data Structures and Algorithms, AI for Robotics and Introduction to Computer Vision. I also spend time reading research papers on different Deep Learning architectures.
 
-Currently I am working remotely in continuation of my summer intern at Biomedical Imaging Algorithms Group, Czech Technical University in Prague. The topic is to predict breast cancer in histopathology images using deep learning. I am also working on a problem in Visual Question Answering as a part of my Bachelor Thesis.
+Currently I am working remotely in continuation of my summer intern at Biomedical Imaging Algorithms Group, Czech Technical University in Prague under the guidance of Prof. [Jan Kybic](http://cmp.felk.cvut.cz/~kybic/). The topic is to predict breast cancer in histopathology images using deep learning. I am also working on a problem in Visual Question Answering as a part of my Bachelor Thesis.
     
 I am a fast, dedicated learner with good time management abilities who is skilled in Python, with experience in frameworks such as Tensorflow and Keras, Java, C and C++.
     
