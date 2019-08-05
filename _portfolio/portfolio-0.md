@@ -2,7 +2,7 @@
 title: "Robotic Human Palm Replication"
 excerpt: "Designed a working model of a human palm which replicated the palm motion and controls using a video feed of a human palm
 through a web-cam.<br/> [Github](https://github.com/mchandak29/robotic-palm)
-<br/><img src='/images/Hardware_Design.png.jpg' width='350' height='350'>"
+<br/><img src='/images/Hardware_Design.png' width='350' height='350'>"
 collection: portfolio
 ---
 
