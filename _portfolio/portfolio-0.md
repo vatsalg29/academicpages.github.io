@@ -13,4 +13,7 @@ loop within each finger and connecting all these smaller components, while the o
 the four fingers are connected to a motor each. The thumb is connected to two motors giving it two degrees of freedom. All the 
 motors are controlled by an Arduino. We achieved pose estimation using a three stage convolutional pose
 machines(CPMs) built on tensorflow-python and kalman filters resulting in higher resolution and accuracy.<br/>
+
+## Results
+<img src='/images/Screenshot%20from%202019-08-02%2015-40-24.png' width='480'><br/>
 [Github](https://github.com/mchandak29/robotic-palm)
