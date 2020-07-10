@@ -1,7 +1,7 @@
 ---
 title: "IQ-VQA: Intelligent Visual Question Answering"
 excerpt: "A model independent framework that increases the consistency and robustness of any VQA model without degrading its performance.<br/> [Github](https://github.com)
-<br/><img src='/images/Hardware_Design.png' width='350' height='350'>"
+<br/><img src='/images/model_diag.png' width='350'>"
 collection: portfolio
 ---
 [Vatsal Goel](https://vatsalg29.github.io/)\*, [Mohit Chandak](https://www.linkedin.com/in/chandakmohit/)\*, [Ashish Anand](https://www.iitg.ac.in/anand.ashish/), [Prithwijit Guha](https://www.iitg.ac.in/eee/pguha.html) <br/>
