@@ -14,6 +14,7 @@ Education
 * B.Tech in Electronics and Electrical Engineering, IIT Guwahati, 2020 
   * CPI: 9.29/10 
   * Department rank 2/45
+  * Thesis: Visual Question Answering [Report](https://vatsalg29.github.io/VQA_Thesis.pdf)
 * B.Tech(Minor) in Computer Science and Engineering, IIT Guwahati, 2020
 
 [//]: <> (Work experience)
