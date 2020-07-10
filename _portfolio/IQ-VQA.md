@@ -1,5 +1,6 @@
 ---
 title: "IQ-VQA: Intelligent Visual Question Answering"
+author: "Vatsal Goel, Mohit Chandak, Ashish Anand, Prithwijit Guha"
 excerpt: "A model independent framework that increases the consistency and robustness of any VQA model without degrading its performance.<br/> [Github](https://github.com)
 <br/><img src='/images/Hardware_Design.png' width='350' height='350'>"
 collection: portfolio
@@ -15,7 +16,7 @@ We show that our framework improves consistency of VQA models by ~15% on the rul
 performance. In addition, we also quantitatively show improvement in attention maps which highlights better multi-modal understanding of vision and language. <br/>
 
 ## Architecture
-<img src='/images/Screenshot%20from%202019-08-02%2015-40-24.png' width='480'><br/>
+<img src='/images/IQ-VQA_architecture.JPG' width='480'><br/>
 [Github](https://github.com)
 
 [Download Paper here](https://arxiv.org/pdf/2007.04422.pdf)
