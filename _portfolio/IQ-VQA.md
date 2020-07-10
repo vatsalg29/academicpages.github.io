@@ -29,8 +29,8 @@ performance. In addition, we also quantitatively show improvement in attention m
     primaryClass={cs.CV}}
 </pre>
 
-#### VQA-Implications Dataset: [json](https://github.com)
+## VQA-Implications Dataset: [json](https://github.com)
 We would like to thank Manish Borthakur, Aditi Jain and Udita Mittal from Indian Institute of Technology, Delhi for annotating the VQA-Implications dataset. <br/>
 
-#### Code: [Github](https://github.com)
+## Code: [Github](https://github.com)
 
