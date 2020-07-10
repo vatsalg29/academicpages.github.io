@@ -18,8 +18,8 @@ performance. In addition, we also quantitatively show improvement in attention m
 ## Architecture
 <img src='/images/IQ-VQA_architecture.JPG'><br/>
 
-<pre>
 [Download Paper here](https://arxiv.org/pdf/2007.04422.pdf)
+<pre>
 @misc{goel2020iqvqa,
     title={IQ-VQA: Intelligent Visual Question Answering},
     author={Vatsal Goel and Mohit Chandak and Ashish Anand and Prithwijit Guha},
