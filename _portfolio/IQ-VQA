@@ -1,7 +1,6 @@
 ---
 title: "IQ-VQA: Intelligent Visual Question Answering"
-excerpt: "A model independent framework that increases the consistency and robustness of any VQA model without degrading its 
-performance.<br/> [Github](https://github.com)
+excerpt: "A model independent framework that increases the consistency and robustness of any VQA model without degrading its performance.<br/> [Github](https://github.com)
 <br/><img src='/images/Hardware_Design.png' width='350' height='350'>"
 collection: portfolio
 ---
