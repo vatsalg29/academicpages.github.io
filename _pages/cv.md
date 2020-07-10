@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.Tech in Electronics and Electrical Engineering, IIT Guwahati, 2020 (expected)
-* B.Tech(Minor) in Computer Science and Engineering, IIT Guwahati, 2020 (expected)
+* B.Tech in Electronics and Electrical Engineering, IIT Guwahati, 2020
+* B.Tech(Minor) in Computer Science and Engineering, IIT Guwahati, 2020
 
 [//]: <> (Work experience)
 [//]: <> (=====)
@@ -39,11 +39,11 @@ Skills
 Positions of Responsibilities
 ======
 * Module Head, Industrial Conclave and Core Team Member, Techniche 2018 (The annual Techno-Management fest of IIT Guwahati)
-* Branch Representative, Electronics and Electrical Engineering (2018-present)
+* Branch Representative, Electronics and Electrical Engineering (2018-2020)
 
 Achievements
 =====
 * Won the bronze medal for the project "Safety Device for fishing vessels" in Inter IIT Tech Meet 2018 competing against 18 other IITs.
 * Secured All India Rank 1471 in JEE Advanced out of 1.1 million candidates.
 
-Download full CV [here](https://vatsalg29.github.io/cv_latex.pdf)
+Download full CV [here](https://vatsalg29.github.io/Research_CV.pdf)
