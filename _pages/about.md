@@ -7,16 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a Final year undergraduate student at the Indian Institute of Technology, Guwahati in Electronics and Electrical Engineering with a minor in Computer Science.
+I am an incoming analyst at American Express, with a B.Tech from the Indian Institute of Technology, Guwahati (IITG) in Electronics and Electrical Engineering with a minor in Computer Science.
     
-My research interests lie in the field of **Deep Learning and Computer Vision**, with an extention to Natural Language Processing. I have worked with Object Detection and Optical Character Recognition models.
+My research interests lie in the field of **Deep Learning and Computer Vision**, with an extention to Natural Language Processing. I have work experience in Visual Question Answering (VQA), Object Detection and Optical Character Recognition models.
     
 Apart from my course curriculum including courses on Linear Algebra, Probability and Random Processes, I have completed online courses such as the Machine Learning course and the Deep Learning Specialization (DL.ai) by Andrew Ng, Data Structures and Algorithms, AI for Robotics and Introduction to Computer Vision. I also spend time reading research papers on different Deep Learning architectures.
 
-Currently I am working remotely in continuation of my summer intern at Biomedical Imaging Algorithms Group, Czech Technical University in Prague under the guidance of Prof. [Jan Kybic](http://cmp.felk.cvut.cz/~kybic/). The topic is to predict breast cancer in histopathology images using deep learning. I am also working on a problem in Visual Question Answering as a part of my Bachelor Thesis.
+In the summer of 2019, I interned at Biomedical Imaging Algorithms Group, Czech Technical University in Prague under the guidance of Prof. [Jan Kybic](http://cmp.felk.cvut.cz/~kybic/). The topic was to predict breast cancer in histopathology images using deep learning. 
     
 I am a fast, dedicated learner with good time management abilities who is skilled in Python, with experience in frameworks such as Tensorflow and Keras, Java, C and C++.
     
-Besides research, I worked for 2 years, first year as an organizer, and second year as a Module Head and a Core Team member in the annual Techno-Management fest of IIT Guwahati, Techniche. I am also the current Branch Representative of my department.
+Besides research, I worked for 2 years, first year as an organizer, and second year as a Module Head and a Core Team member in the annual Techno-Management fest of IIT Guwahati, Techniche. I was also the Branch Representative of my department at IITG during my junior and senior year.
     
 I also love solving puzzles. Although I don't do it that often anymore, please do ping me if you've got one :)
