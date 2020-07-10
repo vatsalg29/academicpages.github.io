@@ -30,10 +30,6 @@ Skills
   * Python
   * Java
   * C++
-* Libraries and Frameworks
-  * OpenCV
-  * Numpy
-  * Keras
 
   
 Positions of Responsibilities
