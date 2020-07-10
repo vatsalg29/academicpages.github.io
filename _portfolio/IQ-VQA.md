@@ -4,7 +4,7 @@ excerpt: "A model independent framework that increases the consistency and robus
 <br/><img src='/images/Hardware_Design.png' width='350' height='350'>"
 collection: portfolio
 ---
-Vatsal Goel, Mohit Chandak, Ashish Anand, Prithwijit Guha
+[Vatsal Goel](https://vatsalg29.github.io/), [Mohit Chandak](https://www.linkedin.com/in/chandakmohit/), [Ashish Anand](https://www.iitg.ac.in/anand.ashish/), [Prithwijit Guha](https://www.iitg.ac.in/eee/pguha.html)
 
 ## Abstract
 Even though there has been tremendous progress in the field of Visual Question Answering, models today still tend to be inconsistent and brittle. To this end, we propose a 
@@ -17,6 +17,20 @@ performance. In addition, we also quantitatively show improvement in attention m
 
 ## Architecture
 <img src='/images/IQ-VQA_architecture.JPG'><br/>
-[Github](https://github.com)
 
+<pre>
 [Download Paper here](https://arxiv.org/pdf/2007.04422.pdf)
+@misc{goel2020iqvqa,
+    title={IQ-VQA: Intelligent Visual Question Answering},
+    author={Vatsal Goel and Mohit Chandak and Ashish Anand and Prithwijit Guha},
+    year={2020},
+    eprint={2007.04422},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}}
+</pre>
+
+#### VQA-Implications Dataset: [json](https://github.com)
+We would like to thank Manish Borthakur, Aditi Jain and Udita Mittal from Indian Institute of Technology, Delhi for annotating the VQA-Implications dataset. <br/>
+
+#### Code: [Github](https://github.com)
+
