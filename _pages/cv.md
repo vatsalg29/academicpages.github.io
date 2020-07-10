@@ -11,7 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.Tech in Electronics and Electrical Engineering, IIT Guwahati, 2020 (CPI: 9.29/10, department rank 2/45)
+* B.Tech in Electronics and Electrical Engineering, IIT Guwahati, 2020 
+  * CPI: 9.29/10 
+  * Department rank 2/45
 * B.Tech(Minor) in Computer Science and Engineering, IIT Guwahati, 2020
 
 [//]: <> (Work experience)
