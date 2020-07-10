@@ -4,8 +4,8 @@ excerpt: "A model independent framework that increases the consistency and robus
 <br/><img src='/images/Hardware_Design.png' width='350' height='350'>"
 collection: portfolio
 ---
-[Vatsal Goel](https://vatsalg29.github.io/)*, [Mohit Chandak](https://www.linkedin.com/in/chandakmohit/)*, [Ashish Anand](https://www.iitg.ac.in/anand.ashish/), [Prithwijit Guha](https://www.iitg.ac.in/eee/pguha.html) <br/>
-*Equal Contribution 
+[Vatsal Goel](https://vatsalg29.github.io/)\*, [Mohit Chandak](https://www.linkedin.com/in/chandakmohit/)\*, [Ashish Anand](https://www.iitg.ac.in/anand.ashish/), [Prithwijit Guha](https://www.iitg.ac.in/eee/pguha.html) <br/>
+\*Equal Contribution 
 
 ## Abstract
 Even though there has been tremendous progress in the field of Visual Question Answering, models today still tend to be inconsistent and brittle. To this end, we propose a 
