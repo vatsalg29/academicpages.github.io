@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming analyst at American Express, with a B.Tech from the Indian Institute of Technology, Guwahati (IITG) in Electronics and Electrical Engineering with a minor in Computer Science. My bachelor thesis was in *Visual Question Answering* and can be found [here](https://vatsalg29.github.io/VQA_Thesis.pdf)
+I am an incoming analyst at American Express, with a B.Tech from the Indian Institute of Technology, Guwahati (IITG) in Electronics and Electrical Engineering with a minor in Computer Science. My bachelor thesis was in *Visual Question Answering* and can be found [here](https://vatsalg29.github.io/VQA_Thesis.pdf).
     
 My research interests lie in the field of **Deep Learning and Computer Vision**, with an extention to Natural Language Processing. I have work experience in Visual Question Answering (VQA), Object Detection and Optical Character Recognition models.
     
