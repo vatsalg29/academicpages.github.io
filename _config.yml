@@ -84,9 +84,9 @@ author:
   avatar           : "DP.jpg"
   bio              : "Upcoming Researcher in Deep Learning and Computer Vision"
   location         : "IIT Guwahati"
-  employer         :
+  employer         : "American Express"
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=uMMoQEIAAAAJ&hl=en"
   email            :  "vatsal29@iitg.ac.in"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "vatsal_gl"
   vine             :
   weibo            :
   xing             :
